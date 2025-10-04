@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryulurala/Community-service.git"
+    "url": "git+https://github.com/ryulurala/web_community_service.git"
   },
   "keywords": [],
   "author": "ryulurala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryulurala/Community-service/issues"
+    "url": "https://github.com/ryulurala/web_community_service/issues"
   },
-  "homepage": "https://github.com/ryulurala/Community-service#readme",
+  "homepage": "https://github.com/ryulurala/web_community_service#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.5",
